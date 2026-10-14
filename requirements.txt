@@ -1,0 +1,6 @@
+streamlit
+openai
+PyPDF2
+PyMuPDF
+python-dotenv
+ddgs
